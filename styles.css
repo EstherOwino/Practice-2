@@ -1,0 +1,40 @@
+.amazon-button{
+    background-color: rgb(255, 216, 20);
+    padding: 5px 50px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.uber-button1{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.uber-button2{
+    background-color: rgb(230, 230, 230);
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.toggle-button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.is-toggled{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+    font-weight: bold;
+}
